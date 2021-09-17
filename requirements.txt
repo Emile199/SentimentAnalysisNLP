@@ -1,0 +1,9 @@
+tweepy
+matplotlib
+nltk
+sklearn
+pickle
+json
+time
+statistics
+collections
