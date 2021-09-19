@@ -16,4 +16,12 @@ Other sources that were useful to this project are:<br />
  –Analyzing Text with the Natural Language Toolkit  by Steven Bird<br />
 https://www.nltk.org/book/
 -Scikit-learn page<br />
-https://scikit-learn.org/stable/
+https://scikit-learn.org/stable/ />
+
+
+Integrantes del equipo:
+- Emiliano Etienne Iracheta.
+- José Ernesto García Torales
+- Diego Alejandro Díaz Osorno.
+- Tanya Yaretzi González Elizondo.
+- Diego Garza Noriega.
